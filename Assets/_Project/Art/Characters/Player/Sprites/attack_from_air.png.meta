@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 67268e3f46673394ab0f5cc2936eaee1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8495433559932430955
+    second: attack_from_air_0
+  - first:
+      213: -8312658908363281556
+    second: attack_from_air_1
+  - first:
+      213: -749093122098888433
+    second: attack_from_air_2
+  - first:
+      213: -9160875145514323279
+    second: attack_from_air_3
+  - first:
+      213: -1278953423212444310
+    second: attack_from_air_4
+  - first:
+      213: -2535246621806357229
+    second: attack_from_air_5
+  - first:
+      213: -8812331883194539583
+    second: attack_from_air_6
+  - first:
+      213: 7015651700950386482
+    second: attack_from_air_7
+  - first:
+      213: 2515532968673917089
+    second: attack_from_air_8
+  - first:
+      213: 88060013126085832
+    second: attack_from_air_9
+  - first:
+      213: 4389064023054651874
+    second: attack_from_air_10
+  - first:
+      213: -4255041338924807571
+    second: attack_from_air_11
+  - first:
+      213: -4512879036140059333
+    second: attack_from_air_12
+  - first:
+      213: 1584435162926290096
+    second: attack_from_air_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: attack_from_air_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 197
+        width: 25
+        height: 59
+      alignment: 9
+      pivot: {x: 0.76, y: 0.016949153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 9.5, y: -26.5}
+        - {x: 11.5, y: -21.5}
+        - {x: 12.5, y: -16.5}
+        - {x: 12.5, y: 6.5}
+        - {x: 10.5, y: 5.5}
+        - {x: 10.5, y: 14.5}
+        - {x: 6.5, y: 18.5}
+        - {x: 6.5, y: 19.5}
+        - {x: 8.5, y: 21.5}
+        - {x: 10.5, y: 22.5}
+        - {x: 10.5, y: 26.5}
+        - {x: 8.5, y: 29.5}
+        - {x: -3.5, y: 29.5}
+        - {x: -3.5, y: 26.5}
+        - {x: -2.5, y: 25.5}
+        - {x: -3.5, y: 24.5}
+        - {x: -3.5, y: 22.5}
+        - {x: -8.5, y: 17.5}
+        - {x: -8.5, y: 8.5}
+        - {x: -11.5, y: 7.5}
+        - {x: -11.5, y: 3.5}
+        - {x: -12.5, y: 3.5}
+        - {x: -12.5, y: -12.5}
+        - {x: -11.5, y: -19.5}
+        - {x: -9.5, y: -22.5}
+        - {x: -7.5, y: -26.5}
+        - {x: -3.5, y: -29.5}
+        - {x: 5.5, y: -29.5}
+      - - {x: -2.0714264, y: -16.071426}
+        - {x: 0, y: -14}
+        - {x: -0.46774292, y: -18.209671}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: b6a64b0efc7d5e570800000000000000
+      internalID: 8495433559932430955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_from_air_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 200
+        width: 25
+        height: 53
+      alignment: 9
+      pivot: {x: 0.76, y: 0.018867925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 11.5, y: -22.5}
+        - {x: 12.5, y: -19.5}
+        - {x: 12.5, y: 24.5}
+        - {x: 10.5, y: 23.5}
+        - {x: 8.5, y: 26.5}
+        - {x: -3.5, y: 26.5}
+        - {x: -3.5, y: 23.5}
+        - {x: -2.5, y: 22.5}
+        - {x: -3.5, y: 21.5}
+        - {x: -3.5, y: 19.5}
+        - {x: -6.5, y: 16.5}
+        - {x: -7.5, y: 18.5}
+        - {x: -6.5, y: 19.5}
+        - {x: -6.5, y: 23.5}
+        - {x: -8.5, y: 25.5}
+        - {x: -11.5, y: 24.5}
+        - {x: -11.5, y: 19.5}
+        - {x: -10.5, y: 18.5}
+        - {x: -12.5, y: 17.5}
+        - {x: -12.5, y: -12.5}
+        - {x: -9.5, y: -18.5}
+        - {x: -9.5, y: -20.5}
+        - {x: -3.5, y: -26.5}
+        - {x: 6.5, y: -26.5}
+      - - {x: -1.300003, y: -17.300003}
+        - {x: 0.5, y: -15.5}
+        - {x: 0.5, y: -18.5}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: c6b2504e3c083ac80800000000000000
+      internalID: -8312658908363281556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_from_air_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 134
+        width: 25
+        height: 54
+      alignment: 9
+      pivot: {x: 0.76, y: 0.018518519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 10.5, y: -24}
+        - {x: 12.5, y: -19}
+        - {x: 12.5, y: 27}
+        - {x: 9.5, y: 27}
+        - {x: 9.5, y: 24}
+        - {x: 10.5, y: 23}
+        - {x: 10.5, y: 22}
+        - {x: 7.5, y: 26}
+        - {x: 2.5, y: 26}
+        - {x: 1.5, y: 27}
+        - {x: -1.5, y: 27}
+        - {x: -3.5, y: 25}
+        - {x: -3.5, y: 22}
+        - {x: -2.5, y: 21}
+        - {x: -3.5, y: 20}
+        - {x: -3.5, y: 18}
+        - {x: -6.5, y: 15}
+        - {x: -7.5, y: 17}
+        - {x: -6.5, y: 18}
+        - {x: -6.5, y: 22}
+        - {x: -7.5, y: 24}
+        - {x: -6.5, y: 25}
+        - {x: -6.5, y: 27}
+        - {x: -11.5, y: 27}
+        - {x: -10.5, y: 23}
+        - {x: -12.5, y: 23}
+        - {x: -12.5, y: -11}
+        - {x: -11.5, y: -17}
+        - {x: -8.5, y: -24}
+        - {x: -4.5, y: -27}
+        - {x: 6.5, y: -27}
+      - - {x: -1.5, y: -19}
+        - {x: 0.5, y: -17}
+        - {x: 0.5, y: -20}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: f018b9936cfaa95f0800000000000000
+      internalID: -749093122098888433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_from_air_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 128
+        width: 63
+        height: 42
+      alignment: 9
+      pivot: {x: 0.53968257, y: 0.023809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 31.5, y: -18}
+        - {x: 29.5, y: -17}
+        - {x: 26.5, y: -17}
+        - {x: 25.5, y: -18}
+        - {x: 22.5, y: -18}
+        - {x: 19.5, y: -15}
+        - {x: 16.5, y: -15}
+        - {x: 17.5, y: -14}
+        - {x: 17.5, y: -11}
+        - {x: 16.5, y: -8}
+        - {x: 11.5, y: -4}
+        - {x: 9.5, y: -4}
+        - {x: 7.5, y: -2}
+        - {x: 8.5, y: -1}
+        - {x: 8.5, y: 8}
+        - {x: 6.5, y: 10}
+        - {x: 6.5, y: 14}
+        - {x: 9.5, y: 17}
+        - {x: 9.5, y: 20}
+        - {x: 8.5, y: 21}
+        - {x: -4.5, y: 21}
+        - {x: -4.5, y: 18}
+        - {x: -3.5, y: 17}
+        - {x: -4.5, y: 16}
+        - {x: -6.5, y: 13}
+        - {x: -7.5, y: 13}
+        - {x: -10.5, y: 10}
+        - {x: -10.5, y: 2}
+        - {x: -9.5, y: 1}
+        - {x: -9.5, y: -4}
+        - {x: -12.5, y: -4}
+        - {x: -15.5, y: -5}
+        - {x: -19.5, y: -10}
+        - {x: -19.5, y: -14}
+        - {x: -18.5, y: -15}
+        - {x: -21.5, y: -15}
+        - {x: -27.5, y: -18}
+        - {x: -31.5, y: -18}
+        - {x: -31.5, y: -21}
+        - {x: 31.5, y: -21}
+      - - {x: -14.5, y: -15}
+        - {x: -11.5, y: -11}
+        - {x: -9.5, y: -14}
+        - {x: -13.5, y: -16}
+      - - {x: 9.5, y: -15}
+        - {x: 8.5, y: -15}
+        - {x: 10.166672, y: -13.333328}
+        - {x: 9.699997, y: -15.199997}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 1b2f9ef67980ed080800000000000000
+      internalID: -9160875145514323279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_from_air_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 64
+        width: 74
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5540541, y: 0.022727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -2, y: -18}
+        - {x: -2, y: -20}
+        - {x: -3, y: -19}
+      - - {x: -17, y: -10}
+        - {x: -17, y: -8}
+        - {x: -20, y: -7}
+        - {x: -21, y: -7}
+        - {x: -20, y: -6}
+        - {x: -18, y: -6}
+        - {x: -17, y: -7}
+        - {x: -15, y: -7}
+        - {x: -13, y: -5}
+        - {x: -13, y: -4}
+        - {x: -17, y: -1}
+        - {x: -22, y: -1}
+        - {x: -26, y: -5}
+        - {x: -26, y: -10}
+        - {x: -22, y: -13}
+        - {x: -20, y: -13}
+      - - {x: 25, y: -10}
+        - {x: 25, y: -6}
+        - {x: 22, y: -3}
+        - {x: 18, y: -2}
+        - {x: 14, y: -6}
+        - {x: 14, y: -8}
+        - {x: 17, y: -9}
+        - {x: 19, y: -7}
+        - {x: 20, y: -9}
+        - {x: 17, y: -11}
+        - {x: 18, y: -14}
+        - {x: 21, y: -14}
+      - - {x: 37, y: -16}
+        - {x: 33, y: -18}
+        - {x: 33, y: -16}
+        - {x: 31, y: -13}
+        - {x: 28, y: -12}
+        - {x: 24, y: -12}
+        - {x: 22, y: -14}
+        - {x: 22, y: -16}
+        - {x: 24, y: -18}
+        - {x: 26, y: -17}
+        - {x: 27, y: -18}
+        - {x: 18, y: -18}
+        - {x: 17, y: -19}
+        - {x: 8, y: -19}
+        - {x: 7, y: -20}
+        - {x: 6, y: -19}
+        - {x: 6, y: -18}
+        - {x: 8, y: -16}
+        - {x: 10, y: -15}
+        - {x: 10, y: -5}
+        - {x: 8, y: -1}
+        - {x: 9, y: 0}
+        - {x: 9, y: 9}
+        - {x: 7, y: 11}
+        - {x: 7, y: 15}
+        - {x: 10, y: 18}
+        - {x: 10, y: 21}
+        - {x: 9, y: 22}
+        - {x: -4, y: 22}
+        - {x: -4, y: 19}
+        - {x: -3, y: 18}
+        - {x: -4, y: 17}
+        - {x: -6, y: 14}
+        - {x: -7, y: 14}
+        - {x: -10, y: 11}
+        - {x: -10, y: 3}
+        - {x: -9, y: 2}
+        - {x: -8, y: -3}
+        - {x: -9, y: -4}
+        - {x: -10, y: -12}
+        - {x: -12, y: -12}
+        - {x: -13, y: -15}
+        - {x: -11, y: -17}
+        - {x: -8, y: -17}
+        - {x: -10, y: -19}
+        - {x: -17, y: -19}
+        - {x: -18, y: -18}
+        - {x: -26, y: -18}
+        - {x: -26, y: -17}
+        - {x: -25, y: -18}
+        - {x: -22, y: -17}
+        - {x: -22, y: -14}
+        - {x: -24, y: -12}
+        - {x: -30, y: -13}
+        - {x: -33, y: -16}
+        - {x: -33, y: -18}
+        - {x: -37, y: -16}
+        - {x: -37, y: -22}
+        - {x: 37, y: -22}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: a65072543ae304ee0800000000000000
+      internalID: -1278953423212444310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_from_air_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 64
+        width: 86
+        height: 44
+      alignment: 9
+      pivot: {x: 0.55813956, y: 0.022727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -1, y: -18}
+        - {x: -1, y: -20}
+        - {x: -2, y: -19}
+      - - {x: -20, y: -6}
+        - {x: -19, y: -1}
+        - {x: -21, y: 1}
+        - {x: -23, y: 1}
+        - {x: -26, y: -2}
+        - {x: -26, y: -4}
+        - {x: -23, y: -7}
+      - - {x: 29, y: -6}
+        - {x: 29, y: -3}
+        - {x: 25, y: 1}
+        - {x: 23, y: 1}
+        - {x: 19, y: -2}
+        - {x: 20, y: -5}
+        - {x: 23, y: -5}
+        - {x: 26, y: -7}
+      - - {x: -31, y: -16}
+        - {x: -27, y: -12}
+        - {x: -27, y: -11}
+        - {x: -30, y: -8}
+        - {x: -32, y: -8}
+        - {x: -35, y: -11}
+        - {x: -36, y: -15}
+        - {x: -34, y: -17}
+      - - {x: 38, y: -15}
+        - {x: 38, y: -13}
+        - {x: 34, y: -9}
+        - {x: 31, y: -9}
+        - {x: 29, y: -11}
+        - {x: 29, y: -12}
+        - {x: 32, y: -16}
+        - {x: 34, y: -18}
+        - {x: 35, y: -18}
+      - - {x: -37, y: -19}
+        - {x: -43, y: -19}
+        - {x: -43, y: -22}
+        - {x: -36, y: -22}
+      - - {x: -15, y: -19}
+        - {x: -24, y: -19}
+        - {x: -25, y: -22}
+        - {x: -14, y: -22}
+      - - {x: 22, y: -19}
+        - {x: 14, y: -19}
+        - {x: 13, y: -22}
+        - {x: 23, y: -22}
+      - - {x: 43, y: -19}
+        - {x: 38, y: -19}
+        - {x: 36, y: -21}
+        - {x: 36, y: -22}
+        - {x: 43, y: -22}
+      - - {x: 0, y: -22}
+        - {x: 8, y: -22}
+        - {x: 7, y: -18}
+        - {x: 11, y: -16}
+        - {x: 11, y: -14}
+        - {x: 13, y: -15}
+        - {x: 17, y: -11}
+        - {x: 17, y: -9}
+        - {x: 13, y: -4}
+        - {x: 10, y: -4}
+        - {x: 9, y: 0}
+        - {x: 10, y: 1}
+        - {x: 10, y: 10}
+        - {x: 8, y: 12}
+        - {x: 8, y: 15}
+        - {x: 11, y: 18}
+        - {x: 11, y: 21}
+        - {x: 10, y: 22}
+        - {x: -3, y: 22}
+        - {x: -3, y: 19}
+        - {x: -2, y: 18}
+        - {x: -4, y: 15}
+        - {x: -6, y: 15}
+        - {x: -9, y: 12}
+        - {x: -9, y: 4}
+        - {x: -7, y: 0}
+        - {x: -7, y: -4}
+        - {x: -12, y: -4}
+        - {x: -15, y: -7}
+        - {x: -15, y: -12}
+        - {x: -13, y: -14}
+        - {x: -10, y: -13}
+        - {x: -10, y: -9}
+        - {x: -9, y: -10}
+        - {x: -9, y: -11}
+        - {x: -6, y: -14}
+        - {x: -6, y: -15}
+        - {x: -9, y: -19}
+        - {x: -9, y: -21}
+        - {x: -8, y: -22}
+        - {x: -1, y: -22}
+        - {x: -1, y: -21}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 237430f2d0a9c5160800000000000000
+      internalID: 7015651700950386482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_from_air_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 78
+        height: 46
+      alignment: 9
+      pivot: {x: 0.61538464, y: 0.04347826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 3, y: -18}
+        - {x: 5, y: -23}
+        - {x: 14, y: -23}
+        - {x: 14, y: -21}
+        - {x: 12, y: -19}
+        - {x: 12, y: -15}
+        - {x: 15, y: -12}
+        - {x: 15, y: -5}
+        - {x: 14, y: -4}
+        - {x: 17, y: -2}
+        - {x: 16, y: 6}
+        - {x: 14, y: 11}
+        - {x: 11, y: 13}
+        - {x: 11, y: 17}
+        - {x: 13, y: 19}
+        - {x: 13, y: 22}
+        - {x: 12, y: 23}
+        - {x: 0, y: 23}
+        - {x: -1, y: 22}
+        - {x: 0, y: 15}
+        - {x: -3, y: 14}
+        - {x: -4, y: 11}
+        - {x: -4, y: 8}
+        - {x: -3, y: 7}
+        - {x: -4, y: 5}
+        - {x: -4, y: -14}
+        - {x: -3, y: -15}
+        - {x: -3, y: -18}
+        - {x: -5, y: -21}
+        - {x: -5, y: -23}
+        - {x: 3, y: -23}
+      - - {x: -20, y: -1}
+        - {x: -20, y: 2}
+        - {x: -23, y: 3}
+        - {x: -25, y: 1}
+        - {x: -23, y: -2}
+      - - {x: -8, y: -6}
+        - {x: -6, y: -4}
+        - {x: -7, y: -1}
+        - {x: -11, y: -1}
+        - {x: -14, y: -4}
+        - {x: -14, y: -5}
+        - {x: -12, y: -7}
+      - - {x: 35, y: -6}
+        - {x: 35, y: -3}
+        - {x: 34, y: -1}
+        - {x: 31, y: -1}
+        - {x: 29, y: -2}
+        - {x: 29, y: -4}
+        - {x: 32, y: -7}
+      - - {x: 23, y: -14}
+        - {x: 24, y: -9}
+        - {x: 21, y: -6}
+        - {x: 20, y: -6}
+        - {x: 18, y: -8}
+        - {x: 18, y: -13}
+        - {x: 20, y: -15}
+      - - {x: -27, y: -12}
+        - {x: -28, y: -9}
+        - {x: -31, y: -9}
+        - {x: -34, y: -12}
+        - {x: -34, y: -13}
+        - {x: -32, y: -15}
+      - - {x: 39, y: -18}
+        - {x: 39, y: -12}
+        - {x: 37, y: -10}
+        - {x: 34, y: -10}
+        - {x: 32, y: -12}
+        - {x: 32, y: -13}
+        - {x: 35, y: -17}
+        - {x: 37, y: -19}
+      - - {x: -12, y: -20}
+        - {x: -17, y: -20}
+        - {x: -18, y: -23}
+        - {x: -11, y: -23}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: b3580984d680f51c0800000000000000
+      internalID: -4512879036140059333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 301386a07a356b24cb68fe2d5584f15b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.296875,"y":0.015625},"pivotPixels":{"x":19.0,"y":1.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":1,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      attack_from_air_0: 8495433559932430955
+      attack_from_air_1: -8312658908363281556
+      attack_from_air_10: 4389064023054651874
+      attack_from_air_11: -4255041338924807571
+      attack_from_air_12: -4512879036140059333
+      attack_from_air_13: 1584435162926290096
+      attack_from_air_2: -749093122098888433
+      attack_from_air_3: -9160875145514323279
+      attack_from_air_4: -1278953423212444310
+      attack_from_air_5: -2535246621806357229
+      attack_from_air_6: -8812331883194539583
+      attack_from_air_7: 7015651700950386482
+      attack_from_air_8: 2515532968673917089
+      attack_from_air_9: 88060013126085832
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

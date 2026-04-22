@@ -1,0 +1,710 @@
+fileFormatVersion: 2
+guid: 5322e3e366f6a994580260292c379eef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8630923909508717717
+    second: Health_0
+  - first:
+      213: 5407656843090688360
+    second: Health_1
+  - first:
+      213: -5731162285055332302
+    second: Health_2
+  - first:
+      213: 8133923789288904650
+    second: Health_3
+  - first:
+      213: 5670370932310569416
+    second: Health_4
+  - first:
+      213: -5388755749296596579
+    second: Health_5
+  - first:
+      213: 8599707562563145997
+    second: Health_6
+  - first:
+      213: -2813353791512989102
+    second: Health_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Health_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 30
+        height: 47
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.021276595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -10, y: -22.5}
+        - {x: -7, y: -14.5}
+        - {x: -7, y: -18.5}
+        - {x: -9, y: -21.5}
+        - {x: -9, y: -23.5}
+        - {x: -1, y: -23.5}
+        - {x: -1, y: -17.5}
+        - {x: 1, y: -16.5}
+        - {x: 2, y: -18.5}
+        - {x: 2, y: -23.5}
+        - {x: 10, y: -23.5}
+        - {x: 10, y: -21.5}
+        - {x: 8, y: -19.5}
+        - {x: 8, y: -15.5}
+        - {x: 11, y: -11.5}
+        - {x: 11, y: -4.5}
+        - {x: 15, y: -3.5}
+        - {x: 15, y: 3.5}
+        - {x: 13, y: 5.5}
+        - {x: 11, y: 5.5}
+        - {x: 11, y: 6.5}
+        - {x: 10, y: 7.5}
+        - {x: 10, y: 10.5}
+        - {x: 7, y: 13.5}
+        - {x: 7, y: 17.5}
+        - {x: 9, y: 19.5}
+        - {x: 9, y: 22.5}
+        - {x: 8, y: 23.5}
+        - {x: -4, y: 23.5}
+        - {x: -5, y: 22.5}
+        - {x: -4, y: 14.5}
+        - {x: -8, y: 13.5}
+        - {x: -9, y: 10.5}
+        - {x: -9, y: 7.5}
+        - {x: -8, y: 6.5}
+        - {x: -9, y: 4.5}
+        - {x: -9, y: -5.5}
+        - {x: -15, y: -16.5}
+        - {x: -15, y: -23.5}
+        - {x: -12, y: -23.5}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: b63ae42de6cc83880800000000000000
+      internalID: -8630923909508717717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 30
+        height: 47
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.021276595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -10, y: -22.5}
+        - {x: -7, y: -14.5}
+        - {x: -7, y: -18.5}
+        - {x: -9, y: -21.5}
+        - {x: -9, y: -23.5}
+        - {x: -1, y: -23.5}
+        - {x: -1, y: -17.5}
+        - {x: 0, y: -16.5}
+        - {x: 1, y: -16.5}
+        - {x: 2, y: -18.5}
+        - {x: 2, y: -23.5}
+        - {x: 10, y: -23.5}
+        - {x: 10, y: -21.5}
+        - {x: 8, y: -19.5}
+        - {x: 8, y: -15.5}
+        - {x: 12, y: -9.5}
+        - {x: 12, y: -6.5}
+        - {x: 10, y: -2.5}
+        - {x: 11, y: -3.5}
+        - {x: 13, y: -3.5}
+        - {x: 15, y: -1.5}
+        - {x: 15, y: 5.5}
+        - {x: 13, y: 7.5}
+        - {x: 12, y: 7.5}
+        - {x: 11, y: 6.5}
+        - {x: 10, y: 10.5}
+        - {x: 7, y: 13.5}
+        - {x: 7, y: 17.5}
+        - {x: 9, y: 19.5}
+        - {x: 9, y: 22.5}
+        - {x: 8, y: 23.5}
+        - {x: -4, y: 23.5}
+        - {x: -5, y: 22.5}
+        - {x: -4, y: 14.5}
+        - {x: -8, y: 13.5}
+        - {x: -9, y: 10.5}
+        - {x: -9, y: 7.5}
+        - {x: -8, y: 6.5}
+        - {x: -9, y: 4.5}
+        - {x: -9, y: -5.5}
+        - {x: -15, y: -16.5}
+        - {x: -15, y: -23.5}
+        - {x: -12, y: -23.5}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 86971af6f3bdb0b40800000000000000
+      internalID: 5407656843090688360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 30
+        height: 47
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.021276595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -10, y: -22.5}
+        - {x: -7, y: -14.5}
+        - {x: -7, y: -18.5}
+        - {x: -9, y: -21.5}
+        - {x: -9, y: -23.5}
+        - {x: -1, y: -23.5}
+        - {x: -1, y: -17.5}
+        - {x: 1, y: -16.5}
+        - {x: 2, y: -18.5}
+        - {x: 2, y: -23.5}
+        - {x: 10, y: -23.5}
+        - {x: 10, y: -21.5}
+        - {x: 8, y: -19.5}
+        - {x: 8, y: -15.5}
+        - {x: 9, y: -14.5}
+        - {x: 9, y: -12.5}
+        - {x: 12, y: -9.5}
+        - {x: 12, y: -5.5}
+        - {x: 11, y: -4.5}
+        - {x: 12, y: -3.5}
+        - {x: 13, y: -3.5}
+        - {x: 15, y: -1.5}
+        - {x: 15, y: 6.5}
+        - {x: 13, y: 8.5}
+        - {x: 10, y: 7.5}
+        - {x: 10, y: 10.5}
+        - {x: 7, y: 13.5}
+        - {x: 7, y: 17.5}
+        - {x: 9, y: 19.5}
+        - {x: 9, y: 22.5}
+        - {x: 8, y: 23.5}
+        - {x: -4, y: 23.5}
+        - {x: -5, y: 22.5}
+        - {x: -4, y: 14.5}
+        - {x: -8, y: 13.5}
+        - {x: -9, y: 10.5}
+        - {x: -9, y: 7.5}
+        - {x: -8, y: 6.5}
+        - {x: -9, y: 4.5}
+        - {x: -9, y: -5.5}
+        - {x: -15, y: -16.5}
+        - {x: -15, y: -23.5}
+        - {x: -12, y: -23.5}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 23039294442d670b0800000000000000
+      internalID: -5731162285055332302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 30
+        height: 47
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.021276595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -7, y: -15.5}
+        - {x: -7, y: -18.5}
+        - {x: -9, y: -21.5}
+        - {x: -9, y: -23.5}
+        - {x: -1, y: -23.5}
+        - {x: 0, y: -18.5}
+        - {x: 1, y: -16.5}
+        - {x: 2, y: -19.5}
+        - {x: 2, y: -23.5}
+        - {x: 10, y: -23.5}
+        - {x: 10, y: -21.5}
+        - {x: 8, y: -19.5}
+        - {x: 9, y: -18.5}
+        - {x: 10, y: -12.5}
+        - {x: 12, y: -9.5}
+        - {x: 12, y: -4.5}
+        - {x: 11, y: -3.5}
+        - {x: 11, y: -1.5}
+        - {x: 13, y: -1.5}
+        - {x: 15, y: 0.5}
+        - {x: 15, y: 9.5}
+        - {x: 13, y: 11.5}
+        - {x: 11, y: 11.5}
+        - {x: 10, y: 10.5}
+        - {x: 8, y: 13.5}
+        - {x: 8, y: 17.5}
+        - {x: 10, y: 19.5}
+        - {x: 10, y: 22.5}
+        - {x: 9, y: 23.5}
+        - {x: -5, y: 23.5}
+        - {x: -6, y: 22.5}
+        - {x: -5, y: 14.5}
+        - {x: -8, y: 13.5}
+        - {x: -10, y: 8.5}
+        - {x: -10, y: 6.5}
+        - {x: -9, y: 5.5}
+        - {x: -10, y: 3.5}
+        - {x: -10, y: -2.5}
+        - {x: -9, y: -3.5}
+        - {x: -9, y: -6.5}
+        - {x: -15, y: -17.5}
+        - {x: -15, y: -23.5}
+        - {x: -10, y: -23.5}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: ac71aaa479081e070800000000000000
+      internalID: 8133923789288904650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 31
+        height: 47
+      alignment: 9
+      pivot: {x: 0.6451613, y: 0.021276595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -7.5, y: -15.5}
+        - {x: -7.5, y: -18.5}
+        - {x: -9.5, y: -21.5}
+        - {x: -9.5, y: -23.5}
+        - {x: -1.5, y: -23.5}
+        - {x: -0.5, y: -22.5}
+        - {x: -0.5, y: -16.5}
+        - {x: 0.5, y: -17.5}
+        - {x: 0.5, y: -18.5}
+        - {x: 1.5, y: -19.5}
+        - {x: 1.5, y: -23.5}
+        - {x: 9.5, y: -23.5}
+        - {x: 9.5, y: -20.5}
+        - {x: 8.5, y: -19.5}
+        - {x: 7.5, y: -15.5}
+        - {x: 11.5, y: -9.5}
+        - {x: 11.5, y: -5.5}
+        - {x: 9.5, y: -3.5}
+        - {x: 13.5, y: -2.5}
+        - {x: 13.5, y: 1.5}
+        - {x: 14.5, y: 3.5}
+        - {x: 15.5, y: 3.5}
+        - {x: 15.5, y: 9.5}
+        - {x: 11.5, y: 11.5}
+        - {x: 10.5, y: 10.5}
+        - {x: 7.5, y: 13.5}
+        - {x: 7.5, y: 17.5}
+        - {x: 9.5, y: 19.5}
+        - {x: 9.5, y: 22.5}
+        - {x: 8.5, y: 23.5}
+        - {x: -5.5, y: 23.5}
+        - {x: -6.5, y: 22.5}
+        - {x: -5.5, y: 14.5}
+        - {x: -9.5, y: 11.5}
+        - {x: -9.5, y: 6.5}
+        - {x: -8.5, y: 5.5}
+        - {x: -10.5, y: 3.5}
+        - {x: -10.5, y: -3.5}
+        - {x: -9.5, y: -4.5}
+        - {x: -9.5, y: -6.5}
+        - {x: -15.5, y: -17.5}
+        - {x: -15.5, y: -23.5}
+        - {x: -10.5, y: -23.5}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 8c1721de15431be40800000000000000
+      internalID: 5670370932310569416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 33
+        height: 47
+      alignment: 9
+      pivot: {x: 0.6060606, y: 0.021276595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -8.5, y: -15.5}
+        - {x: -8.5, y: -18.5}
+        - {x: -10.5, y: -21.5}
+        - {x: -10.5, y: -23.5}
+        - {x: -1.5, y: -23.5}
+        - {x: -2.5, y: -18.5}
+        - {x: -1.5, y: -16.5}
+        - {x: -0.5, y: -17.5}
+        - {x: -0.5, y: -18.5}
+        - {x: 0.5, y: -19.5}
+        - {x: 0.5, y: -23.5}
+        - {x: 9.5, y: -23.5}
+        - {x: 9.5, y: -21.5}
+        - {x: 8.5, y: -19.5}
+        - {x: 6.5, y: -18.5}
+        - {x: 6.5, y: -15.5}
+        - {x: 9.5, y: -11.5}
+        - {x: 9.5, y: -6.5}
+        - {x: 8.5, y: -5.5}
+        - {x: 10.5, y: -5.5}
+        - {x: 14.5, y: -2.5}
+        - {x: 12.5, y: 1.5}
+        - {x: 14.5, y: -0.5}
+        - {x: 15.5, y: -0.5}
+        - {x: 16.5, y: 0.5}
+        - {x: 16.5, y: 11.5}
+        - {x: 15.5, y: 11.5}
+        - {x: 12.5, y: 8.5}
+        - {x: 10.5, y: 7.5}
+        - {x: 10.5, y: 6.5}
+        - {x: 9.5, y: 7.5}
+        - {x: 10.5, y: 9.5}
+        - {x: 6.5, y: 13.5}
+        - {x: 5.5, y: 17.5}
+        - {x: 7.5, y: 19.5}
+        - {x: 7.5, y: 22.5}
+        - {x: 6.5, y: 23.5}
+        - {x: -5.5, y: 23.5}
+        - {x: -6.5, y: 22.5}
+        - {x: -5.5, y: 15.5}
+        - {x: -10.5, y: 12.5}
+        - {x: -11.5, y: 7.5}
+        - {x: -9.5, y: 5.5}
+        - {x: -9.5, y: 4.5}
+        - {x: -10.5, y: 3.5}
+        - {x: -11.5, y: -3.5}
+        - {x: -10.5, y: -4.5}
+        - {x: -10.5, y: -6.5}
+        - {x: -16.5, y: -17.5}
+        - {x: -16.5, y: -23.5}
+        - {x: -11.5, y: -23.5}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: d9915d5623b4735b0800000000000000
+      internalID: -5388755749296596579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 36
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.02173913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -11, y: -18}
+        - {x: -10, y: -16}
+        - {x: -10, y: -18}
+        - {x: -12, y: -21}
+        - {x: -12, y: -23}
+        - {x: -4, y: -23}
+        - {x: -4, y: -18}
+        - {x: -3, y: -16}
+        - {x: -2, y: -17}
+        - {x: -2, y: -18}
+        - {x: -1, y: -19}
+        - {x: -1, y: -23}
+        - {x: 7, y: -23}
+        - {x: 7, y: -21}
+        - {x: 5, y: -19}
+        - {x: 5, y: -15}
+        - {x: 7, y: -13}
+        - {x: 8, y: -7}
+        - {x: 9, y: -6}
+        - {x: 10, y: -7}
+        - {x: 13, y: -6}
+        - {x: 13, y: -4}
+        - {x: 11, y: -2}
+        - {x: 11, y: 0}
+        - {x: 10, y: 1}
+        - {x: 10, y: 3}
+        - {x: 8, y: 7}
+        - {x: 8, y: 10}
+        - {x: 6, y: 13}
+        - {x: 4, y: 14}
+        - {x: 4, y: 17}
+        - {x: 6, y: 19}
+        - {x: 6, y: 22}
+        - {x: 5, y: 23}
+        - {x: -7, y: 23}
+        - {x: -8, y: 22}
+        - {x: -7, y: 14}
+        - {x: -11, y: 13}
+        - {x: -11, y: 11}
+        - {x: -13, y: 9}
+        - {x: -13, y: 7}
+        - {x: -12, y: 6}
+        - {x: -12, y: -6}
+        - {x: -18, y: -17}
+        - {x: -18, y: -23}
+        - {x: -13, y: -23}
+      - - {x: 18, y: 2}
+        - {x: 16, y: 2}
+        - {x: 16, y: 4}
+        - {x: 13, y: 5}
+        - {x: 11, y: 3}
+        - {x: 13, y: 0}
+        - {x: 15.625, y: 0.875}
+        - {x: 15, y: -1}
+        - {x: 17, y: -3}
+        - {x: 18, y: -3}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: d0111d6077c485770800000000000000
+      internalID: 8599707562563145997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 37
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.02173913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -10.833328, y: -17.666672}
+        - {x: -10.5, y: -18}
+        - {x: -12.5, y: -21}
+        - {x: -12.5, y: -23}
+        - {x: -4.5, y: -23}
+        - {x: -4.5, y: -17}
+        - {x: -2.5, y: -16}
+        - {x: -1.5, y: -18}
+        - {x: -1.5, y: -23}
+        - {x: 6.5, y: -23}
+        - {x: 6.5, y: -21}
+        - {x: 4.5, y: -19}
+        - {x: 4.5, y: -15}
+        - {x: 6.5, y: -13}
+        - {x: 7.5, y: -13}
+        - {x: 8.5, y: -14}
+        - {x: 11.5, y: -13}
+        - {x: 11.5, y: -10}
+        - {x: 8.5, y: -9}
+        - {x: 7.5, y: -10}
+        - {x: 7.5, y: -5}
+        - {x: 6.5, y: -4}
+        - {x: 10.5, y: -3}
+        - {x: 10.5, y: 1}
+        - {x: 9.5, y: 2}
+        - {x: 8.5, y: 7}
+        - {x: 7.5, y: 10}
+        - {x: 3.5, y: 13}
+        - {x: 3.5, y: 17}
+        - {x: 5.5, y: 19}
+        - {x: 5.5, y: 22}
+        - {x: 4.5, y: 23}
+        - {x: -7.5, y: 23}
+        - {x: -8.5, y: 22}
+        - {x: -7.5, y: 15}
+        - {x: -11.5, y: 14}
+        - {x: -12.5, y: 11}
+        - {x: -12.5, y: 8}
+        - {x: -11.5, y: 7}
+        - {x: -13.5, y: 5}
+        - {x: -13.5, y: 3}
+        - {x: -12.5, y: 2}
+        - {x: -12.5, y: -6}
+        - {x: -18.5, y: -17}
+        - {x: -18.5, y: -23}
+        - {x: -13.5, y: -23}
+      - - {x: 18.5, y: -1}
+        - {x: 16.5, y: -1}
+        - {x: 15.5, y: -4}
+        - {x: 17.5, y: -6}
+        - {x: 18.5, y: -6}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 252be55e1a5f4f8d0800000000000000
+      internalID: -2813353791512989102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 75e2844af05a2da46af032d29fe57d86
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":1,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Health_0: -8630923909508717717
+      Health_1: 5407656843090688360
+      Health_2: -5731162285055332302
+      Health_3: 8133923789288904650
+      Health_4: 5670370932310569416
+      Health_5: -5388755749296596579
+      Health_6: 8599707562563145997
+      Health_7: -2813353791512989102
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

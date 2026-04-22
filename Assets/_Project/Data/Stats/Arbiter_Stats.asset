@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87583c16a625f4c42a452ce03919fc66, type: 3}
+  m_Name: Arbiter_Stats
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerStats
+  maxHealth: 100
+  moveSpeed: 6
+  baseDamage: 10
+  attackRate: 2
+  currentCurrency: 2
+  lawPoints: 0
+  chaosPoints: 0
+  currentHealGems: 2
+  maxHealGems: 3
+  healAmount: 25
+  _inventoryFullSound: {fileID: 8300000, guid: 21a65dabf8c813e4b925b5bc74bff380, type: 3}
+  jumpForce: 22
+  critChance: 8
+  critMultiplier: 2
+  airAttackDamage: 25
+  airAttackCooldown: 3
+  plungeSpeed: 25
+  plungeRadius: 1.5
+  impactRecoveryTime: 0.5

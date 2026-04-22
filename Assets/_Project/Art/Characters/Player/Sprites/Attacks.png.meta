@@ -1,0 +1,1925 @@
+fileFormatVersion: 2
+guid: 8f01d49da99619548a90b3acbb445282
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6095532798768231063
+    second: Attacks_0
+  - first:
+      213: -4666927688053034149
+    second: Attacks_1
+  - first:
+      213: 8460758886575586376
+    second: Attacks_2
+  - first:
+      213: 9197359061118923714
+    second: Attacks_3
+  - first:
+      213: -2170152249056553037
+    second: Attacks_4
+  - first:
+      213: -2680212052074382635
+    second: Attacks_5
+  - first:
+      213: -6931215245725216204
+    second: Attacks_6
+  - first:
+      213: -1368667520356147063
+    second: Attacks_7
+  - first:
+      213: -2487155654839665781
+    second: Attacks_8
+  - first:
+      213: 2493715834204586930
+    second: Attacks_9
+  - first:
+      213: 8119254292627410222
+    second: Attacks_10
+  - first:
+      213: 5789462244408325593
+    second: Attacks_11
+  - first:
+      213: -1444235429493094942
+    second: Attacks_12
+  - first:
+      213: 8459689340476424515
+    second: Attacks_13
+  - first:
+      213: -4478346526924141157
+    second: Attacks_14
+  - first:
+      213: -7227804449155581258
+    second: Attacks_15
+  - first:
+      213: -3604998909101181594
+    second: Attacks_16
+  - first:
+      213: 5475620736573795811
+    second: Attacks_17
+  - first:
+      213: -5996965363428705851
+    second: Attacks_18
+  - first:
+      213: -1482853811982139335
+    second: Attacks_19
+  - first:
+      213: 4983539406325546534
+    second: Attacks_20
+  - first:
+      213: 3274490417574866107
+    second: Attacks_21
+  - first:
+      213: -2338093585503527961
+    second: Attacks_22
+  - first:
+      213: -5105986514940756889
+    second: Attacks_23
+  - first:
+      213: -3467671829867962210
+    second: Attacks_24
+  - first:
+      213: 4002567970804704800
+    second: Attacks_25
+  - first:
+      213: 2947635463329656151
+    second: Attacks_26
+  - first:
+      213: 5549899127975328557
+    second: Attacks_27
+  - first:
+      213: -932622242980869955
+    second: Attacks_28
+  - first:
+      213: 155688117603481487
+    second: Attacks_29
+  - first:
+      213: -6147224216618748901
+    second: Attacks_30
+  - first:
+      213: -8468725862782532587
+    second: Attacks_31
+  - first:
+      213: 5763972461668555907
+    second: Attacks_32
+  - first:
+      213: -6800640647957950719
+    second: Attacks_33
+  - first:
+      213: -3339831892636666826
+    second: Attacks_34
+  - first:
+      213: -495309659491683638
+    second: Attacks_35
+  - first:
+      213: 1121785225806755958
+    second: Attacks_36
+  - first:
+      213: 3563661117451713387
+    second: Attacks_37
+  - first:
+      213: -6596482981981619478
+    second: Attacks_38
+  - first:
+      213: 897458074936004019
+    second: Attacks_39
+  - first:
+      213: 5189140883734023385
+    second: Attacks_40
+  - first:
+      213: 3379576716334989340
+    second: Attacks_41
+  - first:
+      213: -33728520968892998
+    second: Attacks_42
+  - first:
+      213: -4127189477155844236
+    second: Attacks_43
+  - first:
+      213: 5739512011233966446
+    second: Attacks_44
+  - first:
+      213: 7225887882198495769
+    second: Attacks_45
+  - first:
+      213: 3405076261332926719
+    second: Attacks_46
+  - first:
+      213: -4264531835460211086
+    second: Attacks_47
+  - first:
+      213: 8281780076192104349
+    second: Attacks_48
+  - first:
+      213: 6714865103479770038
+    second: Attacks_49
+  - first:
+      213: 5368588878970258172
+    second: Attacks_50
+  - first:
+      213: -8761207371315142054
+    second: Attacks_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Attacks_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 256
+        width: 27
+        height: 47
+      alignment: 9
+      pivot: {x: 0.7037037, y: 0.021276595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -8.5, y: -22.5}
+        - {x: -5.5, y: -14.5}
+        - {x: -5.5, y: -18.5}
+        - {x: -7.5, y: -21.5}
+        - {x: -7.5, y: -23.5}
+        - {x: 0.5, y: -23.5}
+        - {x: 0.5, y: -17.5}
+        - {x: 2.5, y: -16.5}
+        - {x: 3.5, y: -18.5}
+        - {x: 3.5, y: -23.5}
+        - {x: 11.5, y: -23.5}
+        - {x: 11.5, y: -21.5}
+        - {x: 9.5, y: -19.5}
+        - {x: 9.5, y: -15.5}
+        - {x: 12.5, y: -11.5}
+        - {x: 12.5, y: -4.5}
+        - {x: 13.5, y: -4.5}
+        - {x: 13.5, y: 6.5}
+        - {x: 11.5, y: 11.5}
+        - {x: 8.5, y: 13.5}
+        - {x: 8.5, y: 17.5}
+        - {x: 10.5, y: 19.5}
+        - {x: 10.5, y: 22.5}
+        - {x: 9.5, y: 23.5}
+        - {x: -2.5, y: 23.5}
+        - {x: -3.5, y: 22.5}
+        - {x: -2.5, y: 14.5}
+        - {x: -6.5, y: 13.5}
+        - {x: -7.5, y: 10.5}
+        - {x: -7.5, y: 7.5}
+        - {x: -6.5, y: 6.5}
+        - {x: -7.5, y: 4.5}
+        - {x: -7.5, y: -5.5}
+        - {x: -13.5, y: -16.5}
+        - {x: -13.5, y: -23.5}
+        - {x: -10.5, y: -23.5}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 792b253f8cea79450800000000000000
+      internalID: 6095532798768231063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 256
+        width: 33
+        height: 47
+      alignment: 9
+      pivot: {x: 0.57575756, y: 0.021276595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 2.5, y: -17.5}
+        - {x: 4.5, y: -16.5}
+        - {x: 5.5, y: -18.5}
+        - {x: 5.5, y: -23.5}
+        - {x: 13.5, y: -23.5}
+        - {x: 13.5, y: -21.5}
+        - {x: 11.5, y: -19.5}
+        - {x: 11.5, y: -17.5}
+        - {x: 15.5, y: -11.5}
+        - {x: 15.5, y: -4.5}
+        - {x: 16.5, y: -4.5}
+        - {x: 16.5, y: 6.5}
+        - {x: 14.5, y: 11.5}
+        - {x: 11.5, y: 13.5}
+        - {x: 11.5, y: 17.5}
+        - {x: 13.5, y: 19.5}
+        - {x: 13.5, y: 22.5}
+        - {x: 12.5, y: 23.5}
+        - {x: 0.5, y: 23.5}
+        - {x: -0.5, y: 22.5}
+        - {x: 0.5, y: 14.5}
+        - {x: -3.5, y: 13.5}
+        - {x: -4.5, y: 10.5}
+        - {x: -4.5, y: 5.5}
+        - {x: -5.5, y: 4.5}
+        - {x: -5.5, y: -4.5}
+        - {x: -16.5, y: -15.5}
+        - {x: -16.5, y: -21.5}
+        - {x: -14.5, y: -21.5}
+        - {x: -5.5, y: -12.5}
+        - {x: -3.5, y: -15.5}
+        - {x: -3.5, y: -18.5}
+        - {x: -5.5, y: -21.5}
+        - {x: -5.5, y: -23.5}
+        - {x: 2.5, y: -23.5}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: b53f9218efdbb3fb0800000000000000
+      internalID: -4666927688053034149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks_2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 256
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5135135, y: 0.021276595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 2.5, y: -22.5}
+        - {x: 2.5, y: -19.5}
+        - {x: 4.5, y: -16.5}
+        - {x: 5.5, y: -18.5}
+        - {x: 5.5, y: -23.5}
+        - {x: 13.5, y: -23.5}
+        - {x: 13.5, y: -21.5}
+        - {x: 11.5, y: -19.5}
+        - {x: 11.5, y: -17.5}
+        - {x: 12.5, y: -16.5}
+        - {x: 16.5, y: -11.5}
+        - {x: 16.5, y: -5.5}
+        - {x: 15.5, y: -4.5}
+        - {x: 15.5, y: -3.5}
+        - {x: 16.5, y: -4.5}
+        - {x: 18.5, y: -4.5}
+        - {x: 18.5, y: 4.5}
+        - {x: 17.5, y: 8.5}
+        - {x: 12.5, y: 13.5}
+        - {x: 12.5, y: 17.5}
+        - {x: 14.5, y: 19.5}
+        - {x: 14.5, y: 22.5}
+        - {x: 13.5, y: 23.5}
+        - {x: 1.5, y: 23.5}
+        - {x: 0.5, y: 22.5}
+        - {x: 1.5, y: 14.5}
+        - {x: -2.5, y: 13.5}
+        - {x: -3.5, y: 8.5}
+        - {x: -4.5, y: 7.5}
+        - {x: -4.5, y: 5.5}
+        - {x: -5.5, y: 4.5}
+        - {x: -5.5, y: -2.5}
+        - {x: -6.5, y: -3.5}
+        - {x: -11.5, y: -9.5}
+        - {x: -12.5, y: -9.5}
+        - {x: -18.5, y: -15.5}
+        - {x: -18.5, y: -21.5}
+        - {x: -16.5, y: -21.5}
+        - {x: -8.5, y: -13.5}
+        - {x: -6.5, y: -13.5}
+        - {x: -3.5, y: -15.5}
+        - {x: -3.5, y: -18.5}
+        - {x: -5.5, y: -21.5}
+        - {x: -5.5, y: -23.5}
+        - {x: 1.5, y: -23.5}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 84c319c5167aa6570800000000000000
+      internalID: 8460758886575586376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 256
+        width: 43
+        height: 46
+      alignment: 9
+      pivot: {x: 0.44186047, y: 0.02173913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -12.5, y: -19}
+        - {x: -9.5, y: -19}
+        - {x: -9.5, y: -22}
+        - {x: -8.5, y: -23}
+        - {x: -1.5, y: -23}
+        - {x: -2.5, y: -18}
+        - {x: 2.5, y: -18}
+        - {x: 3.5, y: -17}
+        - {x: 9.5, y: -16}
+        - {x: 16.5, y: -13}
+        - {x: 21.5, y: -7}
+        - {x: 21.5, y: 12}
+        - {x: 14.5, y: 18}
+        - {x: 12.5, y: 18}
+        - {x: 9.5, y: 20}
+        - {x: 6.5, y: 20}
+        - {x: 5.5, y: 21}
+        - {x: 1.5, y: 21}
+        - {x: 1.5, y: 22}
+        - {x: 0.5, y: 23}
+        - {x: -10.5, y: 23}
+        - {x: -10.5, y: 19}
+        - {x: -12.5, y: 16}
+        - {x: -21.5, y: 16}
+        - {x: -21.5, y: 10}
+        - {x: -18.5, y: 9}
+        - {x: -15.5, y: 9}
+        - {x: -16.5, y: 8}
+        - {x: -16.5, y: 3}
+        - {x: -14.5, y: 1}
+        - {x: -14.5, y: -2}
+        - {x: -15.5, y: -3}
+        - {x: -16.5, y: -8}
+        - {x: -18.5, y: -10}
+        - {x: -18.5, y: -18}
+        - {x: -19.5, y: -19}
+        - {x: -19.5, y: -23}
+        - {x: -12.5, y: -23}
+      - - {x: 8.5, y: 10}
+        - {x: 8.5, y: 11}
+        - {x: 9.5, y: 9}
+      - - {x: 3.5, y: -9}
+        - {x: 3.5, y: -6}
+        - {x: 1.5, y: -2}
+        - {x: 1.5, y: 2}
+        - {x: 6.5, y: 2}
+        - {x: 10.5, y: 6}
+        - {x: 10.5, y: 7}
+        - {x: 11.5, y: 5}
+        - {x: 11.5, y: 2}
+        - {x: 12.5, y: 0}
+        - {x: 11.5, y: -1}
+        - {x: 10.5, y: -7}
+        - {x: 8.5, y: -8}
+        - {x: 4.269226, y: -10.538467}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 2c3b6bd165593af70800000000000000
+      internalID: 9197359061118923714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks_4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 45
+        height: 47
+      alignment: 9
+      pivot: {x: 0.42222223, y: 0.021276595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -7.5, y: -19.5}
+        - {x: -6.5, y: -16.5}
+        - {x: -4.5, y: -18.5}
+        - {x: -4.5, y: -22.5}
+        - {x: -3.5, y: -23.5}
+        - {x: 3.5, y: -23.5}
+        - {x: 3.5, y: -21.5}
+        - {x: 2.5, y: -20.5}
+        - {x: 2.5, y: -16.5}
+        - {x: 3.5, y: -15.5}
+        - {x: 7.5, y: -10.5}
+        - {x: 7.5, y: -6.5}
+        - {x: 5.5, y: -3.5}
+        - {x: 5.5, y: 2.5}
+        - {x: 8.5, y: 5.5}
+        - {x: 10.5, y: 6.5}
+        - {x: 10.5, y: 10.5}
+        - {x: 9.5, y: 11.5}
+        - {x: 9.5, y: 14.5}
+        - {x: 11.5, y: 13.5}
+        - {x: 15.5, y: 9.5}
+        - {x: 18.5, y: 2.5}
+        - {x: 21.5, y: 0.5}
+        - {x: 22.5, y: 0.5}
+        - {x: 22.5, y: 14.5}
+        - {x: 17.5, y: 19.5}
+        - {x: 14.5, y: 20.5}
+        - {x: 11.5, y: 20.5}
+        - {x: 10.5, y: 21.5}
+        - {x: 7.5, y: 21.5}
+        - {x: 5.5, y: 23.5}
+        - {x: -6.5, y: 23.5}
+        - {x: -7.5, y: 22.5}
+        - {x: -8.5, y: 22.5}
+        - {x: -9.5, y: 21.5}
+        - {x: -14.5, y: 21.5}
+        - {x: -15.5, y: 20.5}
+        - {x: -20.5, y: 20.5}
+        - {x: -22.5, y: 19.5}
+        - {x: -22.5, y: 14.5}
+        - {x: -18.5, y: 14.5}
+        - {x: -17.5, y: 15.5}
+        - {x: -13.5, y: 15.5}
+        - {x: -12.5, y: 16.5}
+        - {x: -10.5, y: 16.5}
+        - {x: -11.5, y: 15.5}
+        - {x: -18.5, y: 14.5}
+        - {x: -21.5, y: 11.5}
+        - {x: -20.5, y: 8.5}
+        - {x: -17.5, y: 7.5}
+        - {x: -14.5, y: 7.5}
+        - {x: -13.5, y: 8.5}
+        - {x: -11.5, y: 8.5}
+        - {x: -11.5, y: 3.5}
+        - {x: -8.5, y: 0.5}
+        - {x: -10.5, y: -2.5}
+        - {x: -11.5, y: -7.5}
+        - {x: -13.5, y: -10.5}
+        - {x: -13.5, y: -18.5}
+        - {x: -14.5, y: -19.5}
+        - {x: -14.5, y: -23.5}
+        - {x: -7.5, y: -23.5}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 3b71876070212e1e0800000000000000
+      internalID: -2170152249056553037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks_5
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 256
+        width: 32
+        height: 47
+      alignment: 9
+      pivot: {x: 0.59375, y: 0.021276595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -19.5}
+        - {x: 1, y: -16.5}
+        - {x: 3, y: -18.5}
+        - {x: 3, y: -22.5}
+        - {x: 4, y: -23.5}
+        - {x: 11, y: -23.5}
+        - {x: 11, y: -21.5}
+        - {x: 10, y: -20.5}
+        - {x: 10, y: -16.5}
+        - {x: 11, y: -15.5}
+        - {x: 14, y: -11.5}
+        - {x: 14, y: -5.5}
+        - {x: 13, y: -4.5}
+        - {x: 13, y: 2.5}
+        - {x: 15, y: 5.5}
+        - {x: 16, y: 5.5}
+        - {x: 16, y: 14.5}
+        - {x: 14, y: 16.5}
+        - {x: 14, y: 22.5}
+        - {x: 13, y: 23.5}
+        - {x: 1, y: 23.5}
+        - {x: 1, y: 20.5}
+        - {x: 2, y: 19.5}
+        - {x: 0, y: 16.5}
+        - {x: -1, y: 16.5}
+        - {x: 1, y: 18.5}
+        - {x: 0, y: 21.5}
+        - {x: -5, y: 21.5}
+        - {x: -10, y: 18.5}
+        - {x: -9, y: 15.5}
+        - {x: -6, y: 15.5}
+        - {x: -4.75, y: 15.75}
+        - {x: -5, y: 15.5}
+        - {x: -11, y: 14.5}
+        - {x: -10, y: 16.5}
+        - {x: -12, y: 18.5}
+        - {x: -16, y: 17.5}
+        - {x: -16, y: 12.5}
+        - {x: -13, y: 13.5}
+        - {x: -15, y: 11.5}
+        - {x: -15, y: 10.5}
+        - {x: -11, y: 7.5}
+        - {x: -8, y: 7.5}
+        - {x: -7, y: 8.5}
+        - {x: -4, y: 8.5}
+        - {x: -4, y: 3.5}
+        - {x: -1, y: 0.5}
+        - {x: -3, y: -2.5}
+        - {x: -4, y: -7.5}
+        - {x: -6, y: -10.5}
+        - {x: -6, y: -18.5}
+        - {x: -7, y: -19.5}
+        - {x: -7, y: -23.5}
+        - {x: 0, y: -23.5}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 5dab269c659fdcad0800000000000000
+      internalID: -2680212052074382635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks_6
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 256
+        width: 30
+        height: 47
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.021276595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -1, y: -19.5}
+        - {x: 0, y: -16.5}
+        - {x: 2, y: -18.5}
+        - {x: 2, y: -22.5}
+        - {x: 3, y: -23.5}
+        - {x: 10, y: -23.5}
+        - {x: 10, y: -21.5}
+        - {x: 9, y: -20.5}
+        - {x: 9, y: -16.5}
+        - {x: 10, y: -15.5}
+        - {x: 13, y: -11.5}
+        - {x: 13, y: -5.5}
+        - {x: 12, y: -4.5}
+        - {x: 12, y: 2.5}
+        - {x: 14, y: 5.5}
+        - {x: 15, y: 5.5}
+        - {x: 15, y: 12.5}
+        - {x: 12, y: 15.5}
+        - {x: 13, y: 17.5}
+        - {x: 13, y: 22.5}
+        - {x: 12, y: 23.5}
+        - {x: 0, y: 23.5}
+        - {x: 0, y: 20.5}
+        - {x: 1, y: 19.5}
+        - {x: -1, y: 16.5}
+        - {x: -2, y: 15.5}
+        - {x: -10, y: 14.5}
+        - {x: -11, y: 13.5}
+        - {x: -14, y: 13.5}
+        - {x: -15, y: 12.5}
+        - {x: -15, y: 7.5}
+        - {x: -13, y: 6.5}
+        - {x: -10, y: 6.5}
+        - {x: -9, y: 7.5}
+        - {x: -6, y: 7.5}
+        - {x: -5, y: 8.5}
+        - {x: -5, y: 3.5}
+        - {x: -3, y: 1.5}
+        - {x: -3, y: -1.5}
+        - {x: -4, y: -2.5}
+        - {x: -5, y: -7.5}
+        - {x: -7, y: -10.5}
+        - {x: -7, y: -18.5}
+        - {x: -8, y: -19.5}
+        - {x: -8, y: -23.5}
+        - {x: -1, y: -23.5}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 432d6c805706fcf90800000000000000
+      internalID: -6931215245725216204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks_7
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 256
+        width: 51
+        height: 44
+      alignment: 9
+      pivot: {x: 0.37254903, y: 0.022727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -17.5, y: -15}
+        - {x: -16.5, y: -13}
+        - {x: -14.5, y: -15}
+        - {x: -14.5, y: -17}
+        - {x: -16.5, y: -20}
+        - {x: -16.5, y: -22}
+        - {x: 8.5, y: -22}
+        - {x: 11.5, y: -20}
+        - {x: 13.5, y: -20}
+        - {x: 20.5, y: -17}
+        - {x: 25.5, y: -12}
+        - {x: 25.5, y: 10}
+        - {x: 24.5, y: 13}
+        - {x: 20.5, y: 17}
+        - {x: 15.5, y: 19}
+        - {x: 13.5, y: 19}
+        - {x: 10.5, y: 21}
+        - {x: 4.5, y: 22}
+        - {x: -12.5, y: 22}
+        - {x: -13.5, y: 21}
+        - {x: -12.5, y: 18}
+        - {x: -8.5, y: 18}
+        - {x: -7.5, y: 17}
+        - {x: -7.5, y: 15}
+        - {x: -11.5, y: 14}
+        - {x: -13.5, y: 12}
+        - {x: -13.5, y: 11}
+        - {x: -16.5, y: 8}
+        - {x: -16.5, y: 6}
+        - {x: -18.5, y: 2}
+        - {x: -18.5, y: -2}
+        - {x: -19.5, y: -3}
+        - {x: -19.5, y: -5}
+        - {x: -25.5, y: -16}
+        - {x: -25.5, y: -22}
+        - {x: -20.5, y: -22}
+      - - {x: 7.5, y: -6}
+        - {x: 5.5, y: -4}
+        - {x: 9.5, y: -5}
+        - {x: 13.5, y: -1}
+        - {x: 13.5, y: 1}
+        - {x: 9.5, y: 5}
+        - {x: 8.5, y: 5}
+        - {x: 7.5, y: 8}
+        - {x: 4.5, y: 11}
+        - {x: 5.5, y: 12}
+        - {x: 4.5, y: 14}
+        - {x: 9.5, y: 11}
+        - {x: 11.5, y: 11}
+        - {x: 15.5, y: 7}
+        - {x: 15.5, y: 5}
+        - {x: 16.5, y: 4}
+        - {x: 16.5, y: -2}
+        - {x: 14.5, y: -5}
+        - {x: 8.5, y: -11}
+        - {x: 6.535721, y: -11.785721}
+      - - {x: -6.5, y: -17}
+        - {x: -6.5, y: -16}
+        - {x: -5.5, y: -17}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 980ae894424810de0800000000000000
+      internalID: -1368667520356147063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks_8
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 192
+        width: 52
+        height: 44
+      alignment: 9
+      pivot: {x: 0.3653846, y: 0.022727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -22, y: -21}
+        - {x: -21, y: -21}
+        - {x: -20, y: -22}
+        - {x: 9, y: -22}
+        - {x: 12, y: -20}
+        - {x: 14, y: -20}
+        - {x: 21, y: -17}
+        - {x: 24, y: -13}
+        - {x: 24, y: -12}
+        - {x: 26, y: -10}
+        - {x: 26, y: 2}
+        - {x: 23, y: 1}
+        - {x: 23, y: -2}
+        - {x: 21, y: -5}
+        - {x: 18, y: -8}
+        - {x: 9, y: -13}
+        - {x: 6, y: -13}
+        - {x: 4, y: -14}
+        - {x: 7, y: -11}
+        - {x: 7, y: -6}
+        - {x: 5, y: -3}
+        - {x: 10, y: -4}
+        - {x: 13, y: -1}
+        - {x: 13, y: 1}
+        - {x: 10, y: 4}
+        - {x: 8, y: 4}
+        - {x: 7, y: 8}
+        - {x: 4, y: 11}
+        - {x: 5, y: 12}
+        - {x: 5, y: 17}
+        - {x: 6, y: 18}
+        - {x: 6, y: 21}
+        - {x: 5, y: 22}
+        - {x: -7, y: 22}
+        - {x: -8, y: 21}
+        - {x: -7, y: 15}
+        - {x: -13, y: 13}
+        - {x: -13, y: 11}
+        - {x: -16, y: 8}
+        - {x: -16, y: 6}
+        - {x: -19, y: 3}
+        - {x: -19, y: -1}
+        - {x: -20, y: -2}
+        - {x: -20, y: -4}
+        - {x: -26, y: -15}
+        - {x: -26, y: -22}
+        - {x: -23, y: -22}
+      - - {x: -11, y: 0}
+        - {x: -10, y: 1}
+        - {x: -10, y: 0}
+        - {x: -11, y: -0.66667175}
+      - - {x: -17, y: -14}
+        - {x: -16, y: -14}
+        - {x: -14, y: -12}
+        - {x: -15, y: -16}
+        - {x: -17.909088, y: -16.72728}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: b8b7d240c19db7dd0800000000000000
+      internalID: -2487155654839665781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 192
+        width: 38
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.022727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -14, y: -21}
+        - {x: -14, y: -19}
+        - {x: -13, y: -22}
+        - {x: 5, y: -22}
+        - {x: 4, y: -19}
+        - {x: 0, y: -19}
+        - {x: 1, y: -15}
+        - {x: 5, y: -17}
+        - {x: 5, y: -22}
+        - {x: 13, y: -22}
+        - {x: 13, y: -20}
+        - {x: 11, y: -18}
+        - {x: 11, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: -5}
+        - {x: 13, y: -4}
+        - {x: 15, y: -4}
+        - {x: 16, y: -5}
+        - {x: 18, y: -5}
+        - {x: 19, y: -4}
+        - {x: 19, y: 2}
+        - {x: 18, y: 3}
+        - {x: 16, y: 3}
+        - {x: 15, y: 7}
+        - {x: 12, y: 11}
+        - {x: 13, y: 12}
+        - {x: 13, y: 17}
+        - {x: 14, y: 18}
+        - {x: 14, y: 21}
+        - {x: 13, y: 22}
+        - {x: 1, y: 22}
+        - {x: 0, y: 21}
+        - {x: 1, y: 15}
+        - {x: -5, y: 13}
+        - {x: -5, y: 11}
+        - {x: -8, y: 8}
+        - {x: -8, y: 6}
+        - {x: -11, y: 3}
+        - {x: -11, y: 0}
+        - {x: -13, y: -2}
+        - {x: -13, y: -4}
+        - {x: -19, y: -15}
+        - {x: -19, y: -22}
+        - {x: -16, y: -22}
+      - - {x: -5, y: -3}
+        - {x: -2, y: 1}
+        - {x: -2, y: 0}
+        - {x: -5, y: -4.5}
+      - - {x: -10, y: -17}
+        - {x: -11.600006, y: -16.199997}
+        - {x: -10, y: -13}
+        - {x: -8, y: -14}
+        - {x: -7, y: -13}
+        - {x: -7, y: -17}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 2b30884c6557b9220800000000000000
+      internalID: 2493715834204586930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks_10
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 192
+        width: 55
+        height: 43
+      alignment: 9
+      pivot: {x: 0.34545454, y: 0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -19.5, y: -20.5}
+        - {x: -19.5, y: -17.5}
+        - {x: -17.5, y: -14.5}
+        - {x: -16.5, y: -13.5}
+        - {x: -13.5, y: -13.5}
+        - {x: -11.5, y: -16.5}
+        - {x: -11.5, y: -21.5}
+        - {x: -3.5, y: -21.5}
+        - {x: -3.5, y: -19.5}
+        - {x: -5.5, y: -17.5}
+        - {x: -5.5, y: -15.5}
+        - {x: -4.5, y: -14.5}
+        - {x: -4.5, y: -6.5}
+        - {x: -3.5, y: -5.5}
+        - {x: 4.5, y: -5.5}
+        - {x: 5.5, y: -4.5}
+        - {x: 11.5, y: -4.5}
+        - {x: 12.5, y: -3.5}
+        - {x: 15.5, y: -3.5}
+        - {x: 16.5, y: -2.5}
+        - {x: 22.5, y: -1.5}
+        - {x: 24.5, y: -0.5}
+        - {x: 25.5, y: 1.5}
+        - {x: 27.5, y: 2.5}
+        - {x: 27.5, y: 7.5}
+        - {x: 25.5, y: 7.5}
+        - {x: 24.5, y: 8.5}
+        - {x: -0.5, y: 8.5}
+        - {x: -4.5, y: 10.5}
+        - {x: -4.5, y: 14.5}
+        - {x: -1.5, y: 17.5}
+        - {x: -1.5, y: 20.5}
+        - {x: -2.5, y: 21.5}
+        - {x: -15.5, y: 21.5}
+        - {x: -15.5, y: 18.5}
+        - {x: -14.5, y: 17.5}
+        - {x: -16.5, y: 14.5}
+        - {x: -19.5, y: 14.5}
+        - {x: -22.5, y: 11.5}
+        - {x: -22.5, y: 7.5}
+        - {x: -21.5, y: 6.5}
+        - {x: -20.5, y: 2.5}
+        - {x: -22.5, y: -0.5}
+        - {x: -23.5, y: -2.5}
+        - {x: -27.5, y: -3.5}
+        - {x: -27.5, y: -8.5}
+        - {x: -23.5, y: -8.5}
+        - {x: -25.5, y: -12.5}
+        - {x: -25.5, y: -16.5}
+        - {x: -27.5, y: -19.5}
+        - {x: -27.5, y: -21.5}
+        - {x: -20.5, y: -21.5}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: e2d4f11f2c26da070800000000000000
+      internalID: 8119254292627410222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks_11
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 192
+        width: 53
+        height: 43
+      alignment: 9
+      pivot: {x: 0.35849056, y: 0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -20.5, y: -20.5}
+        - {x: -20.5, y: -17.5}
+        - {x: -18.5, y: -14.5}
+        - {x: -17.5, y: -13.5}
+        - {x: -14.5, y: -13.5}
+        - {x: -12.5, y: -16.5}
+        - {x: -12.5, y: -21.5}
+        - {x: -4.5, y: -21.5}
+        - {x: -4.5, y: -19.5}
+        - {x: -6.5, y: -17.5}
+        - {x: -6.5, y: -15.5}
+        - {x: -5.5, y: -14.5}
+        - {x: -5.5, y: -10.5}
+        - {x: -4.5, y: -9.5}
+        - {x: -4.5, y: -4.5}
+        - {x: -8.5, y: 1.5}
+        - {x: 6.5, y: 1.5}
+        - {x: 7.5, y: 0.5}
+        - {x: 2.5, y: 0.5}
+        - {x: -2.5, y: -2.5}
+        - {x: -1.5, y: -5.5}
+        - {x: 5.5, y: -5.5}
+        - {x: 6.5, y: -4.5}
+        - {x: 12.5, y: -4.5}
+        - {x: 13.5, y: -3.5}
+        - {x: 16.5, y: -3.5}
+        - {x: 17.5, y: -2.5}
+        - {x: 19.5, y: -2.5}
+        - {x: 24.5, y: -0.5}
+        - {x: 24.5, y: 1.5}
+        - {x: 25.5, y: 2.5}
+        - {x: 26.5, y: 2.5}
+        - {x: 26.5, y: 7.5}
+        - {x: 24.5, y: 7.5}
+        - {x: 23.5, y: 8.5}
+        - {x: -1.5, y: 8.5}
+        - {x: -5.5, y: 10.5}
+        - {x: -5.5, y: 14.5}
+        - {x: -2.5, y: 17.5}
+        - {x: -2.5, y: 20.5}
+        - {x: -3.5, y: 21.5}
+        - {x: -16.5, y: 21.5}
+        - {x: -16.5, y: 18.5}
+        - {x: -15.5, y: 17.5}
+        - {x: -17.5, y: 14.5}
+        - {x: -20.5, y: 14.5}
+        - {x: -23.5, y: 11.5}
+        - {x: -23.5, y: 7.5}
+        - {x: -22.5, y: 6.5}
+        - {x: -21.5, y: 2.5}
+        - {x: -25.5, y: -5.5}
+        - {x: -25.5, y: -11.5}
+        - {x: -26.5, y: -12.5}
+        - {x: -26.5, y: -21.5}
+        - {x: -21.5, y: -21.5}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 9d57e76cc3d485050800000000000000
+      internalID: 5789462244408325593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks_12
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 192
+        width: 53
+        height: 43
+      alignment: 9
+      pivot: {x: 0.35849056, y: 0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -20.5, y: -20.5}
+        - {x: -20.5, y: -17.5}
+        - {x: -18.5, y: -14.5}
+        - {x: -17.5, y: -13.5}
+        - {x: -14.5, y: -13.5}
+        - {x: -12.5, y: -16.5}
+        - {x: -12.5, y: -21.5}
+        - {x: -4.5, y: -21.5}
+        - {x: -4.5, y: -19.5}
+        - {x: -6.5, y: -17.5}
+        - {x: -6.5, y: -15.5}
+        - {x: -5.5, y: -14.5}
+        - {x: -5.5, y: -10.5}
+        - {x: -3.5, y: -8.5}
+        - {x: -3.5, y: -6.5}
+        - {x: -8.5, y: 1.5}
+        - {x: 6.5, y: 1.5}
+        - {x: 7.5, y: 0.5}
+        - {x: 6.5, y: -2.5}
+        - {x: 9.5, y: -4.5}
+        - {x: 11.5, y: -2.5}
+        - {x: 13.5, y: -2.5}
+        - {x: 15.5, y: -0.5}
+        - {x: 16.5, y: -1.5}
+        - {x: 18.5, y: -1.5}
+        - {x: 21.5, y: 1.5}
+        - {x: 23.5, y: -0.5}
+        - {x: 24.5, y: -0.5}
+        - {x: 26.5, y: 1.5}
+        - {x: 26.5, y: 7.5}
+        - {x: 24.5, y: 7.5}
+        - {x: 23.5, y: 8.5}
+        - {x: -1.5, y: 8.5}
+        - {x: -5.5, y: 10.5}
+        - {x: -5.5, y: 14.5}
+        - {x: -2.5, y: 17.5}
+        - {x: -2.5, y: 20.5}
+        - {x: -3.5, y: 21.5}
+        - {x: -16.5, y: 21.5}
+        - {x: -16.5, y: 18.5}
+        - {x: -15.5, y: 17.5}
+        - {x: -17.5, y: 14.5}
+        - {x: -20.5, y: 14.5}
+        - {x: -23.5, y: 11.5}
+        - {x: -23.5, y: 7.5}
+        - {x: -22.5, y: 6.5}
+        - {x: -21.5, y: 2.5}
+        - {x: -24.5, y: -3.5}
+        - {x: -24.5, y: -8.5}
+        - {x: -26.5, y: -12.5}
+        - {x: -26.5, y: -21.5}
+        - {x: -21.5, y: -21.5}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 2e5c70d578b05fbe0800000000000000
+      internalID: -1444235429493094942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks_13
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 192
+        width: 53
+        height: 43
+      alignment: 9
+      pivot: {x: 0.35849056, y: 0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -20.5, y: -20.5}
+        - {x: -20.5, y: -17.5}
+        - {x: -18.5, y: -14.5}
+        - {x: -17.5, y: -13.5}
+        - {x: -14.5, y: -13.5}
+        - {x: -12.5, y: -16.5}
+        - {x: -12.5, y: -21.5}
+        - {x: -4.5, y: -21.5}
+        - {x: -4.5, y: -19.5}
+        - {x: -6.5, y: -17.5}
+        - {x: -6.5, y: -15.5}
+        - {x: -5.5, y: -14.5}
+        - {x: -5.5, y: -11.5}
+        - {x: -4.5, y: -10.5}
+        - {x: -4.5, y: -4.5}
+        - {x: -8.5, y: 1.5}
+        - {x: 6.5, y: 1.5}
+        - {x: 4.5, y: -0.5}
+        - {x: 4.5, y: -3.5}
+        - {x: 7.5, y: -4.5}
+        - {x: 12.5, y: -0.5}
+        - {x: 12.5, y: 1.5}
+        - {x: 24.5, y: 1.5}
+        - {x: 26.5, y: 2.5}
+        - {x: 26.5, y: 7.5}
+        - {x: 24.5, y: 7.5}
+        - {x: 23.5, y: 8.5}
+        - {x: -1.5, y: 8.5}
+        - {x: -5.5, y: 10.5}
+        - {x: -5.5, y: 14.5}
+        - {x: -2.5, y: 17.5}
+        - {x: -2.5, y: 20.5}
+        - {x: -3.5, y: 21.5}
+        - {x: -16.5, y: 21.5}
+        - {x: -16.5, y: 18.5}
+        - {x: -15.5, y: 17.5}
+        - {x: -17.5, y: 14.5}
+        - {x: -20.5, y: 14.5}
+        - {x: -23.5, y: 11.5}
+        - {x: -23.5, y: 7.5}
+        - {x: -22.5, y: 6.5}
+        - {x: -21.5, y: 2.5}
+        - {x: -24.5, y: -3.5}
+        - {x: -25.5, y: -11.5}
+        - {x: -26.5, y: -12.5}
+        - {x: -26.5, y: -21.5}
+        - {x: -21.5, y: -21.5}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 341814142aad66570800000000000000
+      internalID: 8459689340476424515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks_14
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 192
+        width: 30
+        height: 47
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.021276595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -1, y: -19.5}
+        - {x: 0, y: -16.5}
+        - {x: 2, y: -18.5}
+        - {x: 2, y: -22.5}
+        - {x: 3, y: -23.5}
+        - {x: 10, y: -23.5}
+        - {x: 10, y: -21.5}
+        - {x: 9, y: -20.5}
+        - {x: 9, y: -16.5}
+        - {x: 10, y: -15.5}
+        - {x: 13, y: -11.5}
+        - {x: 13, y: -5.5}
+        - {x: 12, y: -4.5}
+        - {x: 12, y: 2.5}
+        - {x: 14, y: 5.5}
+        - {x: 15, y: 5.5}
+        - {x: 15, y: 12.5}
+        - {x: 12, y: 15.5}
+        - {x: 13, y: 17.5}
+        - {x: 13, y: 22.5}
+        - {x: 12, y: 23.5}
+        - {x: 0, y: 23.5}
+        - {x: 0, y: 20.5}
+        - {x: 1, y: 19.5}
+        - {x: -1, y: 16.5}
+        - {x: -2, y: 15.5}
+        - {x: -10, y: 14.5}
+        - {x: -11, y: 13.5}
+        - {x: -14, y: 13.5}
+        - {x: -15, y: 12.5}
+        - {x: -15, y: 7.5}
+        - {x: -13, y: 6.5}
+        - {x: -10, y: 6.5}
+        - {x: -9, y: 7.5}
+        - {x: -6, y: 7.5}
+        - {x: -5, y: 8.5}
+        - {x: -5, y: 3.5}
+        - {x: -3, y: 1.5}
+        - {x: -3, y: -1.5}
+        - {x: -4, y: -2.5}
+        - {x: -5, y: -7.5}
+        - {x: -7, y: -10.5}
+        - {x: -7, y: -18.5}
+        - {x: -8, y: -19.5}
+        - {x: -8, y: -23.5}
+        - {x: -1, y: -23.5}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: b9d0591af87b9d1c0800000000000000
+      internalID: -4478346526924141157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks_15
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 192
+        width: 29
+        height: 46
+      alignment: 9
+      pivot: {x: 0.6551724, y: 0.02173913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -5.5, y: -19}
+        - {x: -4.5, y: -16}
+        - {x: -2.5, y: -18}
+        - {x: -2.5, y: -22}
+        - {x: -1.5, y: -23}
+        - {x: 5.5, y: -23}
+        - {x: 5.5, y: -21}
+        - {x: 4.5, y: -20}
+        - {x: 4.5, y: -16}
+        - {x: 10.5, y: -11}
+        - {x: 9.5, y: -9}
+        - {x: 9.5, y: -6}
+        - {x: 7.5, y: -2}
+        - {x: 7.5, y: 2}
+        - {x: 8.5, y: 3}
+        - {x: 13.5, y: 3}
+        - {x: 14.5, y: 4}
+        - {x: 14.5, y: 14}
+        - {x: 12.5, y: 16}
+        - {x: 7.5, y: 16}
+        - {x: 8.5, y: 17}
+        - {x: 8.5, y: 22}
+        - {x: 7.5, y: 23}
+        - {x: -3.5, y: 23}
+        - {x: -3.5, y: 19}
+        - {x: -5.5, y: 16}
+        - {x: -14.5, y: 16}
+        - {x: -14.5, y: 10}
+        - {x: -11.5, y: 9}
+        - {x: -8.5, y: 9}
+        - {x: -9.5, y: 8}
+        - {x: -9.5, y: 3}
+        - {x: -7.5, y: 1}
+        - {x: -7.5, y: -2}
+        - {x: -8.5, y: -3}
+        - {x: -9.5, y: -8}
+        - {x: -11.5, y: -10}
+        - {x: -11.5, y: -18}
+        - {x: -12.5, y: -19}
+        - {x: -12.5, y: -23}
+        - {x: -5.5, y: -23}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 6baf716e52ea1bb90800000000000000
+      internalID: -7227804449155581258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 128
+        width: 75
+        height: 44
+      alignment: 9
+      pivot: {x: 0.25333333, y: 0.022727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -33.5, y: -21}
+        - {x: -32.5, y: -22}
+        - {x: 19.5, y: -22}
+        - {x: 18.5, y: -20}
+        - {x: 20.5, y: -20}
+        - {x: 20.5, y: -22}
+        - {x: 37.5, y: -22}
+        - {x: 37.5, y: -19}
+        - {x: 34.5, y: -19}
+        - {x: 33.5, y: -18}
+        - {x: 26.5, y: -18}
+        - {x: 27.5, y: -17}
+        - {x: 27.5, y: -12}
+        - {x: 25.5, y: -10}
+        - {x: 24.5, y: -10}
+        - {x: 22.5, y: -7}
+        - {x: 19.5, y: -8}
+        - {x: 18.5, y: -11}
+        - {x: 17.5, y: -13}
+        - {x: 16.5, y: -13}
+        - {x: 20.5, y: -6}
+        - {x: 20.5, y: 2}
+        - {x: 19.5, y: 3}
+        - {x: 19.5, y: 6}
+        - {x: 17.5, y: 11}
+        - {x: 8.5, y: 20}
+        - {x: 3.5, y: 22}
+        - {x: -10.5, y: 22}
+        - {x: -10.5, y: 21}
+        - {x: -11.5, y: 22}
+        - {x: -19.5, y: 22}
+        - {x: -21.5, y: 20}
+        - {x: -21.5, y: 17}
+        - {x: -20.5, y: 16}
+        - {x: -21.5, y: 14}
+        - {x: -23.5, y: 14}
+        - {x: -25.5, y: 12}
+        - {x: -25.5, y: 11}
+        - {x: -29.5, y: 8}
+        - {x: -29.5, y: 6}
+        - {x: -31.5, y: 3}
+        - {x: -31.5, y: -2}
+        - {x: -32.5, y: -3}
+        - {x: -33.5, y: -8}
+        - {x: -37.5, y: -15}
+        - {x: -37.5, y: -22}
+        - {x: -34.5, y: -22}
+      - - {x: -8.5, y: -12}
+        - {x: -7.5, y: -11}
+        - {x: -7.5, y: -9}
+        - {x: -4.5, y: -6}
+        - {x: -4.5, y: -3}
+        - {x: -10.5, y: 3}
+        - {x: -8.5, y: 5}
+        - {x: -8.5, y: 8}
+        - {x: -9.5, y: 9}
+        - {x: -9.5, y: 13}
+        - {x: -6.5, y: 16}
+        - {x: -7.5, y: 18}
+        - {x: -6.5, y: 17}
+        - {x: -3.5, y: 17}
+        - {x: 2.5, y: 11}
+        - {x: 4.5, y: 8}
+        - {x: 4.5, y: 6}
+        - {x: 7.5, y: 1}
+        - {x: 7.5, y: -4}
+        - {x: 4.5, y: -8}
+        - {x: 1.5, y: -9}
+        - {x: -0.5, y: -11}
+        - {x: -3.5, y: -13}
+        - {x: -5.5, y: -13}
+        - {x: -8.5, y: -15}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 6657a5f979878fdc0800000000000000
+      internalID: -3604998909101181594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks_18
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 131
+        width: 4
+        height: 7
+      alignment: 9
+      pivot: {x: 4.75, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 2, y: 3.5}
+        - {x: -2, y: 3.5}
+        - {x: -2, y: -3.5}
+        - {x: 2, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 5c9b28676cf76cca0800000000000000
+      internalID: -5996965363428705851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 128
+        width: 78
+        height: 42
+      alignment: 9
+      pivot: {x: 0.24358974, y: 0.023809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -34, y: -20}
+        - {x: -34, y: -21}
+        - {x: -27, y: -21}
+        - {x: -26, y: -20}
+        - {x: -26, y: -17}
+        - {x: -24, y: -14}
+        - {x: -19, y: -14}
+        - {x: -18, y: -16}
+        - {x: -18, y: -21}
+        - {x: -10, y: -21}
+        - {x: -10, y: -19}
+        - {x: -12, y: -17}
+        - {x: -12, y: -15}
+        - {x: -11, y: -14}
+        - {x: -10, y: -8}
+        - {x: -7, y: -5}
+        - {x: -7, y: -2}
+        - {x: -10, y: 2}
+        - {x: -12, y: 3}
+        - {x: -13, y: 4}
+        - {x: -11, y: 6}
+        - {x: -11, y: 9}
+        - {x: -12, y: 10}
+        - {x: -12, y: 14}
+        - {x: -9, y: 17}
+        - {x: -9, y: 20}
+        - {x: -10, y: 21}
+        - {x: -23, y: 21}
+        - {x: -23, y: 18}
+        - {x: -22, y: 17}
+        - {x: -23, y: 15}
+        - {x: -25, y: 15}
+        - {x: -27, y: 13}
+        - {x: -27, y: 12}
+        - {x: -31, y: 9}
+        - {x: -31, y: 7}
+        - {x: -33, y: 4}
+        - {x: -33, y: -1}
+        - {x: -34, y: -2}
+        - {x: -35, y: -7}
+        - {x: -39, y: -14}
+        - {x: -39, y: -21}
+        - {x: -36, y: -21}
+      - - {x: 8, y: -19}
+        - {x: 14, y: -18}
+        - {x: 23, y: -14}
+        - {x: 26, y: -11}
+        - {x: 29, y: -4}
+        - {x: 29, y: 2}
+        - {x: 28, y: 6}
+        - {x: 26, y: 9}
+        - {x: 26, y: 11}
+        - {x: 19, y: 19}
+        - {x: 16, y: 20}
+        - {x: 14, y: 21}
+        - {x: 6, y: 21}
+        - {x: 6, y: 20}
+        - {x: 13, y: 14}
+        - {x: 13, y: 13}
+        - {x: 15, y: 10}
+        - {x: 18, y: 5}
+        - {x: 18, y: -2}
+        - {x: 14, y: -9}
+        - {x: 13, y: -9}
+        - {x: 8, y: -13}
+        - {x: 4, y: -14}
+        - {x: 0, y: -17}
+        - {x: 1, y: -20}
+        - {x: 7, y: -20}
+      - - {x: 39, y: -18}
+        - {x: 37, y: -18}
+        - {x: 37, y: -17}
+        - {x: 30, y: -10}
+        - {x: 28, y: -10}
+        - {x: 25, y: -13}
+        - {x: 25, y: -14}
+        - {x: 28, y: -16}
+        - {x: 25, y: -19}
+        - {x: 23, y: -17}
+        - {x: 17, y: -17}
+        - {x: 13, y: -20}
+        - {x: 13, y: -21}
+        - {x: 39, y: -21}
+      - - {x: -32, y: -14}
+        - {x: -32, y: -16}
+        - {x: -33.33333, y: -18}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 93088f28058db6be0800000000000000
+      internalID: -1482853811982139335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks_21
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 128
+        width: 81
+        height: 42
+      alignment: 9
+      pivot: {x: 0.2345679, y: 0.023809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -35.5, y: -20}
+        - {x: -35.5, y: -21}
+        - {x: -28.5, y: -21}
+        - {x: -27.5, y: -20}
+        - {x: -27.5, y: -17}
+        - {x: -25.5, y: -14}
+        - {x: -20.5, y: -14}
+        - {x: -19.5, y: -16}
+        - {x: -19.5, y: -21}
+        - {x: -11.5, y: -21}
+        - {x: -11.5, y: -19}
+        - {x: -13.5, y: -17}
+        - {x: -13.5, y: -15}
+        - {x: -12.5, y: -14}
+        - {x: -12.5, y: -12}
+        - {x: -10.5, y: -10}
+        - {x: -10.5, y: -7}
+        - {x: -8.5, y: -5}
+        - {x: -8.5, y: -2}
+        - {x: -11.5, y: 2}
+        - {x: -13.5, y: 3}
+        - {x: -14.5, y: 4}
+        - {x: -12.5, y: 6}
+        - {x: -12.5, y: 9}
+        - {x: -13.5, y: 10}
+        - {x: -13.5, y: 14}
+        - {x: -10.5, y: 17}
+        - {x: -10.5, y: 20}
+        - {x: -11.5, y: 21}
+        - {x: -24.5, y: 21}
+        - {x: -24.5, y: 18}
+        - {x: -23.5, y: 17}
+        - {x: -24.5, y: 15}
+        - {x: -26.5, y: 15}
+        - {x: -28.5, y: 13}
+        - {x: -28.5, y: 12}
+        - {x: -32.5, y: 9}
+        - {x: -32.5, y: 7}
+        - {x: -34.5, y: 4}
+        - {x: -34.5, y: -1}
+        - {x: -35.5, y: -2}
+        - {x: -36.5, y: -7}
+        - {x: -40.5, y: -14}
+        - {x: -40.5, y: -21}
+        - {x: -37.5, y: -21}
+      - - {x: 10.5, y: -12}
+        - {x: 16.5, y: -11}
+        - {x: 25.5, y: -7}
+        - {x: 28.5, y: -4}
+        - {x: 29.5, y: -1}
+        - {x: 30.5, y: 3}
+        - {x: 30.5, y: 8}
+        - {x: 28.5, y: 13}
+        - {x: 23.5, y: 18}
+        - {x: 18.5, y: 20}
+        - {x: 16.5, y: 17}
+        - {x: 19.5, y: 14}
+        - {x: 20.5, y: 14}
+        - {x: 23.5, y: 11}
+        - {x: 23.5, y: 9}
+        - {x: 24.5, y: 8}
+        - {x: 24.5, y: 3}
+        - {x: 20.5, y: -2}
+        - {x: 11.5, y: -7}
+        - {x: 9.5, y: -7}
+        - {x: 4.5, y: -10}
+        - {x: 5.5, y: -13}
+        - {x: 9.5, y: -13}
+      - - {x: 40.5, y: -18}
+        - {x: 38.5, y: -19}
+        - {x: 37.5, y: -18}
+        - {x: 38.5, y: -17}
+        - {x: 36.5, y: -14}
+        - {x: 34.5, y: -15}
+        - {x: 30.5, y: -11}
+        - {x: 29.5, y: -11}
+        - {x: 26.5, y: -14}
+        - {x: 26.5, y: -16}
+        - {x: 28.5, y: -18}
+        - {x: 22.5, y: -18}
+        - {x: 20.5, y: -20}
+        - {x: 20.5, y: -21}
+        - {x: 40.5, y: -21}
+      - - {x: -33.5, y: -14}
+        - {x: -33.5, y: -16}
+        - {x: -34.83333, y: -18}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: bbc68ff8fa3517d20800000000000000
+      internalID: 3274490417574866107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacks_23
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 128
+        width: 81
+        height: 42
+      alignment: 9
+      pivot: {x: 0.2345679, y: 0.023809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -35.5, y: -20}
+        - {x: -35.5, y: -21}
+        - {x: -28.5, y: -21}
+        - {x: -27.5, y: -20}
+        - {x: -27.5, y: -17}
+        - {x: -25.5, y: -14}
+        - {x: -20.5, y: -14}
+        - {x: -19.5, y: -16}
+        - {x: -19.5, y: -21}
+        - {x: -11.5, y: -21}
+        - {x: -11.5, y: -19}
+        - {x: -13.5, y: -17}
+        - {x: -13.5, y: -15}
+        - {x: -10.5, y: -11}
+        - {x: -10.5, y: -9}
+        - {x: -11.5, y: -8}
+        - {x: -8.5, y: -5}
+        - {x: -8.5, y: -2}
+        - {x: -11.5, y: 2}
+        - {x: -13.5, y: 3}
+        - {x: -14.5, y: 4}
+        - {x: -12.5, y: 6}
+        - {x: -12.5, y: 9}
+        - {x: -13.5, y: 10}
+        - {x: -13.5, y: 14}
+        - {x: -10.5, y: 17}
+        - {x: -10.5, y: 20}
+        - {x: -11.5, y: 21}
+        - {x: -24.5, y: 21}
+        - {x: -24.5, y: 18}
+        - {x: -23.5, y: 17}
+        - {x: -24.5, y: 15}
+        - {x: -26.5, y: 15}
+        - {x: -28.5, y: 13}
+        - {x: -28.5, y: 12}
+        - {x: -32.5, y: 9}
+        - {x: -32.5, y: 7}
+        - {x: -34.5, y: 4}
+        - {x: -34.5, y: -1}
+        - {x: -35.5, y: -2}
+        - {x: -36.5, y: -7}
+        - {x: -40.5, y: -14}
+        - {x: -40.5, y: -21}
+        - {x: -37.5, y: -21}
+      - - {x: 28.5, y: 12}
+        - {x: 28.5, y: 14}
+        - {x: 24.5, y: 18}
+        - {x: 22.5, y: 18}
+        - {x: 21.5, y: 15}
+        - {x: 25.5, y: 11}
+      - - {x: 24.5, y: -6}
+        - {x: 26.5, y: -6}
+        - {x: 29.5, y: -4}
+        - {x: 31.5, y: 1}
+        - {x: 31.5, y: 8}
+        - {x: 29.5, y: 10}
+        - {x: 26.5, y: 9}
+        - {x: 26.5, y: 6}
+        - {x: 27.5, y: 5}
+        - {x: 26.5, y: 4}
+        - {x: 26.5, y: 1}
+        - {x: 24.5, y: -1}
+        - {x: 18.5, y: -5}
+        - {x: 20.5, y: -8}
+      - - {x: 40.5, y: -20}
+        - {x: 40.5, y: -15}
+        - {x: 38.5, y: -15}
+        - {x: 35.75, y: -17.75}
+        - {x: 36.5, y: -14}
+        - {x: 34.5, y: -12}
+        - {x: 32.5, y: -12}
+        - {x: 29.5, y: -15}
+        - {x: 29.5, y: -17}
+        - {x: 32.5, y: -20}
+        - {x: 35.5, y: -19}
+        - {x: 35.65384, y: -18.230774}
+        - {x: 37.5, y: -21}
+      - - {x: -33.5, y: -14}
+        - {x: -33.5, y: -16}
+        - {x: -34.83333, y: -18}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 76c750d3154e329b0800000000000000
+      internalID: -5105986514940756889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a0b69fbd5a231e346adebc29eaf5becb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.296875,"y":0.015625},"pivotPixels":{"x":19.0,"y":1.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":1,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Attacks_0: 6095532798768231063
+      Attacks_1: -4666927688053034149
+      Attacks_10: 8119254292627410222
+      Attacks_11: 5789462244408325593
+      Attacks_12: -1444235429493094942
+      Attacks_13: 8459689340476424515
+      Attacks_14: -4478346526924141157
+      Attacks_15: -7227804449155581258
+      Attacks_16: -3604998909101181594
+      Attacks_17: 5475620736573795811
+      Attacks_18: -5996965363428705851
+      Attacks_19: -1482853811982139335
+      Attacks_2: 8460758886575586376
+      Attacks_20: 4983539406325546534
+      Attacks_21: 3274490417574866107
+      Attacks_22: -2338093585503527961
+      Attacks_23: -5105986514940756889
+      Attacks_24: -3467671829867962210
+      Attacks_25: 4002567970804704800
+      Attacks_26: 2947635463329656151
+      Attacks_27: 5549899127975328557
+      Attacks_28: -932622242980869955
+      Attacks_29: 155688117603481487
+      Attacks_3: 9197359061118923714
+      Attacks_30: -6147224216618748901
+      Attacks_31: -8468725862782532587
+      Attacks_32: 5763972461668555907
+      Attacks_33: -6800640647957950719
+      Attacks_34: -3339831892636666826
+      Attacks_35: -495309659491683638
+      Attacks_36: 1121785225806755958
+      Attacks_37: 3563661117451713387
+      Attacks_38: -6596482981981619478
+      Attacks_39: 897458074936004019
+      Attacks_4: -2170152249056553037
+      Attacks_40: 5189140883734023385
+      Attacks_41: 3379576716334989340
+      Attacks_42: -33728520968892998
+      Attacks_43: -4127189477155844236
+      Attacks_44: 5739512011233966446
+      Attacks_45: 7225887882198495769
+      Attacks_46: 3405076261332926719
+      Attacks_47: -4264531835460211086
+      Attacks_48: 8281780076192104349
+      Attacks_49: 6714865103479770038
+      Attacks_5: -2680212052074382635
+      Attacks_50: 5368588878970258172
+      Attacks_51: -8761207371315142054
+      Attacks_6: -6931215245725216204
+      Attacks_7: -1368667520356147063
+      Attacks_8: -2487155654839665781
+      Attacks_9: 2493715834204586930
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
