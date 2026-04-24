@@ -31,7 +31,7 @@ The game isn't simply "assembled from blocks", but features a well-thought-out e
 
 ## 🎮 How to play?
 1. Go to the **Releases** section (on the right side of this page).
-2. Download the latest archive `The_Arbitrator_v1.0.zip`.
+2. Download the latest archive `The Arbitrator_FinalBuild v1.0.zip`.
 3. Extract it into any convenient folder on your PC.
 4. Run the **The Arbitrator.exe** file (with the knight icon) and enjoy!
 
